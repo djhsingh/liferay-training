@@ -1,0 +1,5 @@
+Bundle-Name: vuejs-portlet
+Bundle-SymbolicName: com.train.liferay.vuejs
+Bundle-Version: 1.0.0
+Export-Package: com.train.liferay.vuejs.constants
+Web-ContextPath: /vuejs-portlet

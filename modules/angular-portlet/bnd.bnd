@@ -1,0 +1,5 @@
+Bundle-Name: angular-portlet
+Bundle-SymbolicName: com.train.liferay.npmPortlet
+Bundle-Version: 1.0.0
+Export-Package: com.train.liferay.npmPortlet.constants
+Web-ContextPath: /angular-portlet

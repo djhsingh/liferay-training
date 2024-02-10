@@ -1,0 +1,6 @@
+Bundle-Name: rest-builder-api
+Bundle-SymbolicName: com.train.liferay.restBuilder.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.train.liferay.restBuilder.dto.v1_0,\
+	com.train.liferay.restBuilder.resource.v1_0

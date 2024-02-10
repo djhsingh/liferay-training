@@ -1,0 +1,5 @@
+Bundle-Name: rest-builder-test
+Bundle-SymbolicName: com.train.liferay.restBuilder.test
+Bundle-Version: 1.0.0
+-includeresource: com.train.liferay.restBuilder.client.jar=../rest-builder-client/build/libs/com.train.liferay.restBuilder.client-1.0.0.jar;lib:=true
+-provider-policy: ${replacestring;${range;[==,==]};.*,(.*)];$1}

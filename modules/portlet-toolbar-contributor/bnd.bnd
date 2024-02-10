@@ -1,0 +1,3 @@
+Bundle-Name: portlet-toolbar-contributor
+Bundle-SymbolicName: com.train.liferay.portlet.toolbar.contributor
+Bundle-Version: 1.0.0

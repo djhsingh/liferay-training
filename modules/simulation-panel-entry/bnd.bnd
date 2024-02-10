@@ -1,0 +1,4 @@
+Bundle-Name: simulation-panel-entry
+Bundle-SymbolicName: com.train.liferay.simulation.panel.entry
+Bundle-Version: 1.0.0
+Web-ContextPath: /simulation-panel-app-simulation-panel-entry

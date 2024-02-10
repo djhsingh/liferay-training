@@ -1,0 +1,4 @@
+Bundle-Name: Liferay-Api
+Bundle-SymbolicName: com.train.liferayAPI
+Bundle-Version: 1.0.0
+Export-Package: com.train.liferayAPI.api

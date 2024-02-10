@@ -1,0 +1,5 @@
+Bundle-Name: react-portlet
+Bundle-SymbolicName: com.train.liferay.reactPortlet
+Bundle-Version: 1.0.0
+Export-Package: com.train.liferay.reactPortlet.constants
+Web-ContextPath: /react-portlet

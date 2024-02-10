@@ -1,0 +1,3 @@
+Bundle-Name: service-wrapper
+Bundle-SymbolicName: com.train.liferay.service.wrapper
+Bundle-Version: 1.0.0

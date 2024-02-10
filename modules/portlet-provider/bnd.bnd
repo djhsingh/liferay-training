@@ -1,0 +1,3 @@
+Bundle-Name: portlet-provider
+Bundle-SymbolicName: com.train.liferay.portletProvider
+Bundle-Version: 1.0.0

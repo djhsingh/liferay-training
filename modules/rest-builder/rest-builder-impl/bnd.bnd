@@ -1,0 +1,3 @@
+Bundle-Name: rest-builder-impl
+Bundle-SymbolicName: com.train.liferay.restBuilder.impl
+Bundle-Version: 1.0.0
